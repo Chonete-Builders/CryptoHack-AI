@@ -1,0 +1,556 @@
+{"prompt": "How much is bag of rice in Costa Rica?", "completion": " bag of rice of 1800 g is usually 1680 colones."}
+{"prompt": "How much is gallon of milk in Costa Rica?", "completion": " gallon of milk is usually 2640 colones."}
+{"prompt": "How much is bag of black beans in Costa Rica?", "completion": " bag of black beans of 800 g is usually 1290 colones."}
+{"prompt": "How much is bag of red beans in Costa Rica?", "completion": " bag of red beans of 800 g is usually 1480 colones."}
+{"prompt": "How much is can of sweet corn in Costa Rica?", "completion": " can of sweet corn of 149 g is usually 1680 colones."}
+{"prompt": "How much is bottle of Cacique in Costa Rica?", "completion": " bottle of Cacique of 1000 ml is usually 4600 colones."}
+{"prompt": "How much is Corona beer in Costa Rica?", "completion": " Corona beer of 330 ml is usually 1250 colones."}
+{"prompt": "How much is Imperial beer in Costa Rica?", "completion": " Imperial beer of 330 ml is usually 1000 colones."}
+{"prompt": "How much is Pilsen beer in Costa Rica?", "completion": " Pilsen beer of 330 ml is usually 1000 colones."}
+{"prompt": "How much is Bavaria Light beer in Costa Rica?", "completion": " Bavaria Light beer of 355 ml is usually 1080 colones."}
+{"prompt": "How much is bag of sugar in Costa Rica?", "completion": " bag of sugar of 1000 g is usually 1200 colones."}
+{"prompt": "How much is bottle of water in Costa Rica?", "completion": " bottle of water of 500 ml is usually 800 colones."}
+{"prompt": "How much is pack of coffee in Costa Rica?", "completion": " pack of coffee of 500 g is usually 3500 colones."}
+{"prompt": "How much is box of tea bags in Costa Rica?", "completion": " box of tea bags of 100 units is usually 2500 colones."}
+{"prompt": "How much is loaf of bread in Costa Rica?", "completion": " loaf of bread of 500 g is usually 900 colones."}
+{"prompt": "How much does a taxi cost for 5 km in Costa Rica?", "completion": " A taxi ride for 5 km is usually 3000 colones."}
+{"prompt": "How much does a taxi cost for 10 km in Costa Rica?", "completion": " A taxi ride for 10 km is usually 6000 colones."}
+{"prompt": "How much does a taxi cost for 15 km in Costa Rica?", "completion": " A taxi ride for 15 km is usually 9000 colones."}
+{"prompt": "How much does a taxi cost for 20 km in Costa Rica?", "completion": " A taxi ride for 20 km is usually 12000 colones."}
+{"prompt": "How much does a taxi cost for 25 km in Costa Rica?", "completion": " A taxi ride for 25 km is usually 15000 colones."}
+{"prompt": "How much does a taxi cost for 30 km in Costa Rica?", "completion": " A taxi ride for 30 km is usually 18000 colones."}
+{"prompt": "How much does a taxi cost for 35 km in Costa Rica?", "completion": " A taxi ride for 35 km is usually 21000 colones."}
+{"prompt": "How much does a taxi cost for 40 km in Costa Rica?", "completion": " A taxi ride for 40 km is usually 24000 colones."}
+{"prompt": "What is Manuel Antonio National Park in Costa Rica?", "completion": " Manuel Antonio National Park is Known for its beautiful beaches and rich biodiversity.."}
+{"prompt": "What is Arenal Volcano in Costa Rica?", "completion": " Arenal Volcano is A majestic active volcano surrounded by lush rainforest.."}
+{"prompt": "What is Monteverde Cloud Forest in Costa Rica?", "completion": " Monteverde Cloud Forest is A unique ecosystem with hanging bridges and ziplines.."}
+{"prompt": "What is Tortuguero National Park in Costa Rica?", "completion": " Tortuguero National Park is Famous for its sea turtle nesting sites.."}
+{"prompt": "What is Po\u00e1s Volcano in Costa Rica?", "completion": " Po\u00e1s Volcano is Home to one of the largest crater lakes in the world.."}
+{"prompt": "What is Cahuita National Park in Costa Rica?", "completion": " Cahuita National Park is Known for coral reefs and scenic coastal trails.."}
+{"prompt": "What is Corcovado National Park in Costa Rica?", "completion": " Corcovado National Park is A vast rainforest with unique wildlife.."}
+{"prompt": "What is La Paz Waterfall Gardens in Costa Rica?", "completion": " La Paz Waterfall Gardens is A collection of stunning waterfalls and a wildlife sanctuary.."}
+{"prompt": "What is San Jos\u00e9 Central Market in Costa Rica?", "completion": " San Jos\u00e9 Central Market is A bustling market with local goods and food.."}
+{"prompt": "What is Iraz\u00fa Volcano in Costa Rica?", "completion": " Iraz\u00fa Volcano is A volcano with a stunning crater lake at the summit.."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "What is Chifrijo in Costa Rica?", "completion": " Chifrijo is A dish with rice, beans, pork, and pico de gallo.."}
+{"prompt": "What is Tamales in Costa Rica?", "completion": " Tamales is Corn dough filled with meat and wrapped in banana leaves.."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "What is the price of Hyundai Accent in Costa Rica?", "completion": " Hyundai Accent is priced at \u20a110,000,000."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is the price of Suzuki Vitara in Costa Rica?", "completion": " Suzuki Vitara is priced at \u20a116,000,000."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "What is the cost of Samsung Galaxy S22 in Costa Rica?", "completion": " Samsung Galaxy S22 costs around \u20a1890,000."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is the cost of Google Pixel 7 in Costa Rica?", "completion": " Google Pixel 7 costs around \u20a1750,000."}
+{"prompt": "What is the cost of Huawei P50 Pro in Costa Rica?", "completion": " Huawei P50 Pro costs around \u20a1600,000."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "What is the unemployment rate in Costa Rica?", "completion": " The unemployment rate in Costa Rica is 11.5%."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "How much does a taxi cost for 20 km in Costa Rica?", "completion": " A taxi ride for 20 km is usually 12000 colones."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "What is Po\u00e1s Volcano in Costa Rica?", "completion": " Po\u00e1s Volcano is Home to one of the largest crater lakes in the world.."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is Corcovado National Park in Costa Rica?", "completion": " Corcovado National Park is A vast rainforest with unique wildlife.."}
+{"prompt": "How much is Imperial beer in Costa Rica?", "completion": " Imperial beer of 330 ml is usually 1000 colones."}
+{"prompt": "What is the cost of Google Pixel 7 in Costa Rica?", "completion": " Google Pixel 7 costs around \u20a1750,000."}
+{"prompt": "What is Corcovado National Park in Costa Rica?", "completion": " Corcovado National Park is A vast rainforest with unique wildlife.."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "How much does a taxi cost for 20 km in Costa Rica?", "completion": " A taxi ride for 20 km is usually 12000 colones."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "What is the price of Suzuki Vitara in Costa Rica?", "completion": " Suzuki Vitara is priced at \u20a116,000,000."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is the cost of Google Pixel 7 in Costa Rica?", "completion": " Google Pixel 7 costs around \u20a1750,000."}
+{"prompt": "How much does a taxi cost for 25 km in Costa Rica?", "completion": " A taxi ride for 25 km is usually 15000 colones."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "What is Tamales in Costa Rica?", "completion": " Tamales is Corn dough filled with meat and wrapped in banana leaves.."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "How much does a taxi cost for 5 km in Costa Rica?", "completion": " A taxi ride for 5 km is usually 3000 colones."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "How much is bag of red beans in Costa Rica?", "completion": " bag of red beans of 800 g is usually 1480 colones."}
+{"prompt": "What is Arenal Volcano in Costa Rica?", "completion": " Arenal Volcano is A majestic active volcano surrounded by lush rainforest.."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is Corcovado National Park in Costa Rica?", "completion": " Corcovado National Park is A vast rainforest with unique wildlife.."}
+{"prompt": "How much does a taxi cost for 35 km in Costa Rica?", "completion": " A taxi ride for 35 km is usually 21000 colones."}
+{"prompt": "What is Manuel Antonio National Park in Costa Rica?", "completion": " Manuel Antonio National Park is Known for its beautiful beaches and rich biodiversity.."}
+{"prompt": "What is Monteverde Cloud Forest in Costa Rica?", "completion": " Monteverde Cloud Forest is A unique ecosystem with hanging bridges and ziplines.."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "How much is bottle of Cacique in Costa Rica?", "completion": " bottle of Cacique of 1000 ml is usually 4600 colones."}
+{"prompt": "What is the price of Suzuki Vitara in Costa Rica?", "completion": " Suzuki Vitara is priced at \u20a116,000,000."}
+{"prompt": "How much is Pilsen beer in Costa Rica?", "completion": " Pilsen beer of 330 ml is usually 1000 colones."}
+{"prompt": "How much is box of tea bags in Costa Rica?", "completion": " box of tea bags of 100 units is usually 2500 colones."}
+{"prompt": "How much does a taxi cost for 5 km in Costa Rica?", "completion": " A taxi ride for 5 km is usually 3000 colones."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "What is Cahuita National Park in Costa Rica?", "completion": " Cahuita National Park is Known for coral reefs and scenic coastal trails.."}
+{"prompt": "How much is bag of red beans in Costa Rica?", "completion": " bag of red beans of 800 g is usually 1480 colones."}
+{"prompt": "How much does a taxi cost for 10 km in Costa Rica?", "completion": " A taxi ride for 10 km is usually 6000 colones."}
+{"prompt": "How much is bottle of Cacique in Costa Rica?", "completion": " bottle of Cacique of 1000 ml is usually 4600 colones."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "What is the cost of Huawei P50 Pro in Costa Rica?", "completion": " Huawei P50 Pro costs around \u20a1600,000."}
+{"prompt": "How much is bottle of water in Costa Rica?", "completion": " bottle of water of 500 ml is usually 800 colones."}
+{"prompt": "How much does a taxi cost for 25 km in Costa Rica?", "completion": " A taxi ride for 25 km is usually 15000 colones."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "How much does a taxi cost for 10 km in Costa Rica?", "completion": " A taxi ride for 10 km is usually 6000 colones."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "What is the cost of Google Pixel 7 in Costa Rica?", "completion": " Google Pixel 7 costs around \u20a1750,000."}
+{"prompt": "What is Cahuita National Park in Costa Rica?", "completion": " Cahuita National Park is Known for coral reefs and scenic coastal trails.."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "How much does a taxi cost for 30 km in Costa Rica?", "completion": " A taxi ride for 30 km is usually 18000 colones."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "What is Tortuguero National Park in Costa Rica?", "completion": " Tortuguero National Park is Famous for its sea turtle nesting sites.."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "How much does a taxi cost for 5 km in Costa Rica?", "completion": " A taxi ride for 5 km is usually 3000 colones."}
+{"prompt": "What is Iraz\u00fa Volcano in Costa Rica?", "completion": " Iraz\u00fa Volcano is A volcano with a stunning crater lake at the summit.."}
+{"prompt": "What is Po\u00e1s Volcano in Costa Rica?", "completion": " Po\u00e1s Volcano is Home to one of the largest crater lakes in the world.."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "How much is pack of coffee in Costa Rica?", "completion": " pack of coffee of 500 g is usually 3500 colones."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "What is Manuel Antonio National Park in Costa Rica?", "completion": " Manuel Antonio National Park is Known for its beautiful beaches and rich biodiversity.."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the cost of Samsung Galaxy S22 in Costa Rica?", "completion": " Samsung Galaxy S22 costs around \u20a1890,000."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "What is the cost of Huawei P50 Pro in Costa Rica?", "completion": " Huawei P50 Pro costs around \u20a1600,000."}
+{"prompt": "How much is pack of coffee in Costa Rica?", "completion": " pack of coffee of 500 g is usually 3500 colones."}
+{"prompt": "What is the cost of Samsung Galaxy S22 in Costa Rica?", "completion": " Samsung Galaxy S22 costs around \u20a1890,000."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is the price of Hyundai Accent in Costa Rica?", "completion": " Hyundai Accent is priced at \u20a110,000,000."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "What is the unemployment rate in Costa Rica?", "completion": " The unemployment rate in Costa Rica is 11.5%."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "What is Monteverde Cloud Forest in Costa Rica?", "completion": " Monteverde Cloud Forest is A unique ecosystem with hanging bridges and ziplines.."}
+{"prompt": "What is Corcovado National Park in Costa Rica?", "completion": " Corcovado National Park is A vast rainforest with unique wildlife.."}
+{"prompt": "What is Corcovado National Park in Costa Rica?", "completion": " Corcovado National Park is A vast rainforest with unique wildlife.."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "How much is bottle of Cacique in Costa Rica?", "completion": " bottle of Cacique of 1000 ml is usually 4600 colones."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the unemployment rate in Costa Rica?", "completion": " The unemployment rate in Costa Rica is 11.5%."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "How much does a taxi cost for 35 km in Costa Rica?", "completion": " A taxi ride for 35 km is usually 21000 colones."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "How much is bag of rice in Costa Rica?", "completion": " bag of rice of 1800 g is usually 1680 colones."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "How much is bag of sugar in Costa Rica?", "completion": " bag of sugar of 1000 g is usually 1200 colones."}
+{"prompt": "How much is gallon of milk in Costa Rica?", "completion": " gallon of milk is usually 2640 colones."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "How much does a taxi cost for 20 km in Costa Rica?", "completion": " A taxi ride for 20 km is usually 12000 colones."}
+{"prompt": "What is Chifrijo in Costa Rica?", "completion": " Chifrijo is A dish with rice, beans, pork, and pico de gallo.."}
+{"prompt": "What is Chifrijo in Costa Rica?", "completion": " Chifrijo is A dish with rice, beans, pork, and pico de gallo.."}
+{"prompt": "What is Monteverde Cloud Forest in Costa Rica?", "completion": " Monteverde Cloud Forest is A unique ecosystem with hanging bridges and ziplines.."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is Chifrijo in Costa Rica?", "completion": " Chifrijo is A dish with rice, beans, pork, and pico de gallo.."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "How much is bag of sugar in Costa Rica?", "completion": " bag of sugar of 1000 g is usually 1200 colones."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "How much is can of sweet corn in Costa Rica?", "completion": " can of sweet corn of 149 g is usually 1680 colones."}
+{"prompt": "What is Arenal Volcano in Costa Rica?", "completion": " Arenal Volcano is A majestic active volcano surrounded by lush rainforest.."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "What is the cost of Google Pixel 7 in Costa Rica?", "completion": " Google Pixel 7 costs around \u20a1750,000."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "What is the price of Hyundai Accent in Costa Rica?", "completion": " Hyundai Accent is priced at \u20a110,000,000."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "How much does a taxi cost for 35 km in Costa Rica?", "completion": " A taxi ride for 35 km is usually 21000 colones."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is the price of Hyundai Accent in Costa Rica?", "completion": " Hyundai Accent is priced at \u20a110,000,000."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "What is Chifrijo in Costa Rica?", "completion": " Chifrijo is A dish with rice, beans, pork, and pico de gallo.."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "What is Manuel Antonio National Park in Costa Rica?", "completion": " Manuel Antonio National Park is Known for its beautiful beaches and rich biodiversity.."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "What is Chifrijo in Costa Rica?", "completion": " Chifrijo is A dish with rice, beans, pork, and pico de gallo.."}
+{"prompt": "What is Chifrijo in Costa Rica?", "completion": " Chifrijo is A dish with rice, beans, pork, and pico de gallo.."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "What is La Paz Waterfall Gardens in Costa Rica?", "completion": " La Paz Waterfall Gardens is A collection of stunning waterfalls and a wildlife sanctuary.."}
+{"prompt": "How much is bottle of Cacique in Costa Rica?", "completion": " bottle of Cacique of 1000 ml is usually 4600 colones."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "How much does a taxi cost for 35 km in Costa Rica?", "completion": " A taxi ride for 35 km is usually 21000 colones."}
+{"prompt": "What is the cost of Google Pixel 7 in Costa Rica?", "completion": " Google Pixel 7 costs around \u20a1750,000."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "How much is Bavaria Light beer in Costa Rica?", "completion": " Bavaria Light beer of 355 ml is usually 1080 colones."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "How much does a taxi cost for 35 km in Costa Rica?", "completion": " A taxi ride for 35 km is usually 21000 colones."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "How much is bottle of Cacique in Costa Rica?", "completion": " bottle of Cacique of 1000 ml is usually 4600 colones."}
+{"prompt": "How much is pack of coffee in Costa Rica?", "completion": " pack of coffee of 500 g is usually 3500 colones."}
+{"prompt": "How much is Corona beer in Costa Rica?", "completion": " Corona beer of 330 ml is usually 1250 colones."}
+{"prompt": "How much is bag of rice in Costa Rica?", "completion": " bag of rice of 1800 g is usually 1680 colones."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "How much does a taxi cost for 10 km in Costa Rica?", "completion": " A taxi ride for 10 km is usually 6000 colones."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the price of Hyundai Accent in Costa Rica?", "completion": " Hyundai Accent is priced at \u20a110,000,000."}
+{"prompt": "How much is bottle of water in Costa Rica?", "completion": " bottle of water of 500 ml is usually 800 colones."}
+{"prompt": "How much does a taxi cost for 25 km in Costa Rica?", "completion": " A taxi ride for 25 km is usually 15000 colones."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the cost of Samsung Galaxy S22 in Costa Rica?", "completion": " Samsung Galaxy S22 costs around \u20a1890,000."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is the price of Suzuki Vitara in Costa Rica?", "completion": " Suzuki Vitara is priced at \u20a116,000,000."}
+{"prompt": "How much is bottle of water in Costa Rica?", "completion": " bottle of water of 500 ml is usually 800 colones."}
+{"prompt": "How much does a taxi cost for 30 km in Costa Rica?", "completion": " A taxi ride for 30 km is usually 18000 colones."}
+{"prompt": "How much is Imperial beer in Costa Rica?", "completion": " Imperial beer of 330 ml is usually 1000 colones."}
+{"prompt": "What is San Jos\u00e9 Central Market in Costa Rica?", "completion": " San Jos\u00e9 Central Market is A bustling market with local goods and food.."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "How much does a taxi cost for 15 km in Costa Rica?", "completion": " A taxi ride for 15 km is usually 9000 colones."}
+{"prompt": "How much is can of sweet corn in Costa Rica?", "completion": " can of sweet corn of 149 g is usually 1680 colones."}
+{"prompt": "What is Monteverde Cloud Forest in Costa Rica?", "completion": " Monteverde Cloud Forest is A unique ecosystem with hanging bridges and ziplines.."}
+{"prompt": "What is the cost of Google Pixel 7 in Costa Rica?", "completion": " Google Pixel 7 costs around \u20a1750,000."}
+{"prompt": "What is Manuel Antonio National Park in Costa Rica?", "completion": " Manuel Antonio National Park is Known for its beautiful beaches and rich biodiversity.."}
+{"prompt": "What is the unemployment rate in Costa Rica?", "completion": " The unemployment rate in Costa Rica is 11.5%."}
+{"prompt": "How much is Bavaria Light beer in Costa Rica?", "completion": " Bavaria Light beer of 355 ml is usually 1080 colones."}
+{"prompt": "How much is bag of red beans in Costa Rica?", "completion": " bag of red beans of 800 g is usually 1480 colones."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "What is Tortuguero National Park in Costa Rica?", "completion": " Tortuguero National Park is Famous for its sea turtle nesting sites.."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "How much is pack of coffee in Costa Rica?", "completion": " pack of coffee of 500 g is usually 3500 colones."}
+{"prompt": "What is the cost of Samsung Galaxy S22 in Costa Rica?", "completion": " Samsung Galaxy S22 costs around \u20a1890,000."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "How much does a taxi cost for 15 km in Costa Rica?", "completion": " A taxi ride for 15 km is usually 9000 colones."}
+{"prompt": "How much does a taxi cost for 30 km in Costa Rica?", "completion": " A taxi ride for 30 km is usually 18000 colones."}
+{"prompt": "What is Tamales in Costa Rica?", "completion": " Tamales is Corn dough filled with meat and wrapped in banana leaves.."}
+{"prompt": "What is Arenal Volcano in Costa Rica?", "completion": " Arenal Volcano is A majestic active volcano surrounded by lush rainforest.."}
+{"prompt": "What is the price of Suzuki Vitara in Costa Rica?", "completion": " Suzuki Vitara is priced at \u20a116,000,000."}
+{"prompt": "How much does a taxi cost for 25 km in Costa Rica?", "completion": " A taxi ride for 25 km is usually 15000 colones."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "How much is bag of red beans in Costa Rica?", "completion": " bag of red beans of 800 g is usually 1480 colones."}
+{"prompt": "How much does a taxi cost for 25 km in Costa Rica?", "completion": " A taxi ride for 25 km is usually 15000 colones."}
+{"prompt": "What is the cost of Huawei P50 Pro in Costa Rica?", "completion": " Huawei P50 Pro costs around \u20a1600,000."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "What is Arenal Volcano in Costa Rica?", "completion": " Arenal Volcano is A majestic active volcano surrounded by lush rainforest.."}
+{"prompt": "How much is box of tea bags in Costa Rica?", "completion": " box of tea bags of 100 units is usually 2500 colones."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "How much is bag of red beans in Costa Rica?", "completion": " bag of red beans of 800 g is usually 1480 colones."}
+{"prompt": "How much does a taxi cost for 5 km in Costa Rica?", "completion": " A taxi ride for 5 km is usually 3000 colones."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "What is Cahuita National Park in Costa Rica?", "completion": " Cahuita National Park is Known for coral reefs and scenic coastal trails.."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "How much is can of sweet corn in Costa Rica?", "completion": " can of sweet corn of 149 g is usually 1680 colones."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "How much is bottle of Cacique in Costa Rica?", "completion": " bottle of Cacique of 1000 ml is usually 4600 colones."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "How much does a taxi cost for 25 km in Costa Rica?", "completion": " A taxi ride for 25 km is usually 15000 colones."}
+{"prompt": "What is the unemployment rate in Costa Rica?", "completion": " The unemployment rate in Costa Rica is 11.5%."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "How much is Pilsen beer in Costa Rica?", "completion": " Pilsen beer of 330 ml is usually 1000 colones."}
+{"prompt": "How much is box of tea bags in Costa Rica?", "completion": " box of tea bags of 100 units is usually 2500 colones."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is Arenal Volcano in Costa Rica?", "completion": " Arenal Volcano is A majestic active volcano surrounded by lush rainforest.."}
+{"prompt": "What is the cost of Huawei P50 Pro in Costa Rica?", "completion": " Huawei P50 Pro costs around \u20a1600,000."}
+{"prompt": "What is the price of Suzuki Vitara in Costa Rica?", "completion": " Suzuki Vitara is priced at \u20a116,000,000."}
+{"prompt": "How much does a taxi cost for 20 km in Costa Rica?", "completion": " A taxi ride for 20 km is usually 12000 colones."}
+{"prompt": "What is the cost of Huawei P50 Pro in Costa Rica?", "completion": " Huawei P50 Pro costs around \u20a1600,000."}
+{"prompt": "What is the cost of Huawei P50 Pro in Costa Rica?", "completion": " Huawei P50 Pro costs around \u20a1600,000."}
+{"prompt": "How much does a taxi cost for 30 km in Costa Rica?", "completion": " A taxi ride for 30 km is usually 18000 colones."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "How much does a taxi cost for 25 km in Costa Rica?", "completion": " A taxi ride for 25 km is usually 15000 colones."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "How much is gallon of milk in Costa Rica?", "completion": " gallon of milk is usually 2640 colones."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "What is the cost of Samsung Galaxy S22 in Costa Rica?", "completion": " Samsung Galaxy S22 costs around \u20a1890,000."}
+{"prompt": "How much is bottle of water in Costa Rica?", "completion": " bottle of water of 500 ml is usually 800 colones."}
+{"prompt": "What is Iraz\u00fa Volcano in Costa Rica?", "completion": " Iraz\u00fa Volcano is A volcano with a stunning crater lake at the summit.."}
+{"prompt": "What is Po\u00e1s Volcano in Costa Rica?", "completion": " Po\u00e1s Volcano is Home to one of the largest crater lakes in the world.."}
+{"prompt": "How much does a taxi cost for 35 km in Costa Rica?", "completion": " A taxi ride for 35 km is usually 21000 colones."}
+{"prompt": "What is Chifrijo in Costa Rica?", "completion": " Chifrijo is A dish with rice, beans, pork, and pico de gallo.."}
+{"prompt": "How much is Pilsen beer in Costa Rica?", "completion": " Pilsen beer of 330 ml is usually 1000 colones."}
+{"prompt": "How much does a taxi cost for 35 km in Costa Rica?", "completion": " A taxi ride for 35 km is usually 21000 colones."}
+{"prompt": "What is Arenal Volcano in Costa Rica?", "completion": " Arenal Volcano is A majestic active volcano surrounded by lush rainforest.."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "How much is Imperial beer in Costa Rica?", "completion": " Imperial beer of 330 ml is usually 1000 colones."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "What is Manuel Antonio National Park in Costa Rica?", "completion": " Manuel Antonio National Park is Known for its beautiful beaches and rich biodiversity.."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "How much is bag of sugar in Costa Rica?", "completion": " bag of sugar of 1000 g is usually 1200 colones."}
+{"prompt": "How much does a taxi cost for 20 km in Costa Rica?", "completion": " A taxi ride for 20 km is usually 12000 colones."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "How much does a taxi cost for 20 km in Costa Rica?", "completion": " A taxi ride for 20 km is usually 12000 colones."}
+{"prompt": "How much does a taxi cost for 10 km in Costa Rica?", "completion": " A taxi ride for 10 km is usually 6000 colones."}
+{"prompt": "What is the unemployment rate in Costa Rica?", "completion": " The unemployment rate in Costa Rica is 11.5%."}
+{"prompt": "What is the cost of Google Pixel 7 in Costa Rica?", "completion": " Google Pixel 7 costs around \u20a1750,000."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "What is the price of Suzuki Vitara in Costa Rica?", "completion": " Suzuki Vitara is priced at \u20a116,000,000."}
+{"prompt": "What is Tortuguero National Park in Costa Rica?", "completion": " Tortuguero National Park is Famous for its sea turtle nesting sites.."}
+{"prompt": "How much does a taxi cost for 20 km in Costa Rica?", "completion": " A taxi ride for 20 km is usually 12000 colones."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "What is the unemployment rate in Costa Rica?", "completion": " The unemployment rate in Costa Rica is 11.5%."}
+{"prompt": "What is the unemployment rate in Costa Rica?", "completion": " The unemployment rate in Costa Rica is 11.5%."}
+{"prompt": "How much does a taxi cost for 10 km in Costa Rica?", "completion": " A taxi ride for 10 km is usually 6000 colones."}
+{"prompt": "What is Corcovado National Park in Costa Rica?", "completion": " Corcovado National Park is A vast rainforest with unique wildlife.."}
+{"prompt": "How much does a taxi cost for 15 km in Costa Rica?", "completion": " A taxi ride for 15 km is usually 9000 colones."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "What is Iraz\u00fa Volcano in Costa Rica?", "completion": " Iraz\u00fa Volcano is A volcano with a stunning crater lake at the summit.."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "What is the cost of Samsung Galaxy S22 in Costa Rica?", "completion": " Samsung Galaxy S22 costs around \u20a1890,000."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is the unemployment rate in Costa Rica?", "completion": " The unemployment rate in Costa Rica is 11.5%."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "How much is gallon of milk in Costa Rica?", "completion": " gallon of milk is usually 2640 colones."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "How much is Imperial beer in Costa Rica?", "completion": " Imperial beer of 330 ml is usually 1000 colones."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "How much is box of tea bags in Costa Rica?", "completion": " box of tea bags of 100 units is usually 2500 colones."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "How much is bag of sugar in Costa Rica?", "completion": " bag of sugar of 1000 g is usually 1200 colones."}
+{"prompt": "What is the price of Suzuki Vitara in Costa Rica?", "completion": " Suzuki Vitara is priced at \u20a116,000,000."}
+{"prompt": "How much does a taxi cost for 30 km in Costa Rica?", "completion": " A taxi ride for 30 km is usually 18000 colones."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "How much is bag of rice in Costa Rica?", "completion": " bag of rice of 1800 g is usually 1680 colones."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "What is the price of Suzuki Vitara in Costa Rica?", "completion": " Suzuki Vitara is priced at \u20a116,000,000."}
+{"prompt": "How much is Imperial beer in Costa Rica?", "completion": " Imperial beer of 330 ml is usually 1000 colones."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "What is Tortuguero National Park in Costa Rica?", "completion": " Tortuguero National Park is Famous for its sea turtle nesting sites.."}
+{"prompt": "What is Po\u00e1s Volcano in Costa Rica?", "completion": " Po\u00e1s Volcano is Home to one of the largest crater lakes in the world.."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is the cost of Google Pixel 7 in Costa Rica?", "completion": " Google Pixel 7 costs around \u20a1750,000."}
+{"prompt": "What is Iraz\u00fa Volcano in Costa Rica?", "completion": " Iraz\u00fa Volcano is A volcano with a stunning crater lake at the summit.."}
+{"prompt": "What is the cost of Samsung Galaxy S22 in Costa Rica?", "completion": " Samsung Galaxy S22 costs around \u20a1890,000."}
+{"prompt": "How much does a taxi cost for 15 km in Costa Rica?", "completion": " A taxi ride for 15 km is usually 9000 colones."}
+{"prompt": "What is the unemployment rate in Costa Rica?", "completion": " The unemployment rate in Costa Rica is 11.5%."}
+{"prompt": "What is Tamales in Costa Rica?", "completion": " Tamales is Corn dough filled with meat and wrapped in banana leaves.."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "How much is can of sweet corn in Costa Rica?", "completion": " can of sweet corn of 149 g is usually 1680 colones."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "How much is pack of coffee in Costa Rica?", "completion": " pack of coffee of 500 g is usually 3500 colones."}
+{"prompt": "What is the price of Hyundai Accent in Costa Rica?", "completion": " Hyundai Accent is priced at \u20a110,000,000."}
+{"prompt": "How much is Imperial beer in Costa Rica?", "completion": " Imperial beer of 330 ml is usually 1000 colones."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "What is the cost of Huawei P50 Pro in Costa Rica?", "completion": " Huawei P50 Pro costs around \u20a1600,000."}
+{"prompt": "What is Manuel Antonio National Park in Costa Rica?", "completion": " Manuel Antonio National Park is Known for its beautiful beaches and rich biodiversity.."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "What is Cahuita National Park in Costa Rica?", "completion": " Cahuita National Park is Known for coral reefs and scenic coastal trails.."}
+{"prompt": "What is Iraz\u00fa Volcano in Costa Rica?", "completion": " Iraz\u00fa Volcano is A volcano with a stunning crater lake at the summit.."}
+{"prompt": "How much does a taxi cost for 30 km in Costa Rica?", "completion": " A taxi ride for 30 km is usually 18000 colones."}
+{"prompt": "How much is Pilsen beer in Costa Rica?", "completion": " Pilsen beer of 330 ml is usually 1000 colones."}
+{"prompt": "What is Iraz\u00fa Volcano in Costa Rica?", "completion": " Iraz\u00fa Volcano is A volcano with a stunning crater lake at the summit.."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "How much does a taxi cost for 20 km in Costa Rica?", "completion": " A taxi ride for 20 km is usually 12000 colones."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "What is Monteverde Cloud Forest in Costa Rica?", "completion": " Monteverde Cloud Forest is A unique ecosystem with hanging bridges and ziplines.."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "What is the unemployment rate in Costa Rica?", "completion": " The unemployment rate in Costa Rica is 11.5%."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "How much does a taxi cost for 15 km in Costa Rica?", "completion": " A taxi ride for 15 km is usually 9000 colones."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the cost of iPhone 14 in Costa Rica?", "completion": " iPhone 14 costs around \u20a1950,000."}
+{"prompt": "What is Tortuguero National Park in Costa Rica?", "completion": " Tortuguero National Park is Famous for its sea turtle nesting sites.."}
+{"prompt": "What is Corcovado National Park in Costa Rica?", "completion": " Corcovado National Park is A vast rainforest with unique wildlife.."}
+{"prompt": "What is Cahuita National Park in Costa Rica?", "completion": " Cahuita National Park is Known for coral reefs and scenic coastal trails.."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "What is Monteverde Cloud Forest in Costa Rica?", "completion": " Monteverde Cloud Forest is A unique ecosystem with hanging bridges and ziplines.."}
+{"prompt": "How much does a taxi cost for 40 km in Costa Rica?", "completion": " A taxi ride for 40 km is usually 24000 colones."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is San Jos\u00e9 Central Market in Costa Rica?", "completion": " San Jos\u00e9 Central Market is A bustling market with local goods and food.."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "What is Tamales in Costa Rica?", "completion": " Tamales is Corn dough filled with meat and wrapped in banana leaves.."}
+{"prompt": "How much does a taxi cost for 20 km in Costa Rica?", "completion": " A taxi ride for 20 km is usually 12000 colones."}
+{"prompt": "What is Corcovado National Park in Costa Rica?", "completion": " Corcovado National Park is A vast rainforest with unique wildlife.."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "What is Tortuguero National Park in Costa Rica?", "completion": " Tortuguero National Park is Famous for its sea turtle nesting sites.."}
+{"prompt": "How much does a taxi cost for 5 km in Costa Rica?", "completion": " A taxi ride for 5 km is usually 3000 colones."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is Tamales in Costa Rica?", "completion": " Tamales is Corn dough filled with meat and wrapped in banana leaves.."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "How much does a taxi cost for 40 km in Costa Rica?", "completion": " A taxi ride for 40 km is usually 24000 colones."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is Iraz\u00fa Volcano in Costa Rica?", "completion": " Iraz\u00fa Volcano is A volcano with a stunning crater lake at the summit.."}
+{"prompt": "How much is bottle of Cacique in Costa Rica?", "completion": " bottle of Cacique of 1000 ml is usually 4600 colones."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "How much is bottle of Cacique in Costa Rica?", "completion": " bottle of Cacique of 1000 ml is usually 4600 colones."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is San Jos\u00e9 Central Market in Costa Rica?", "completion": " San Jos\u00e9 Central Market is A bustling market with local goods and food.."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "How much is bag of rice in Costa Rica?", "completion": " bag of rice of 1800 g is usually 1680 colones."}
+{"prompt": "What is Monteverde Cloud Forest in Costa Rica?", "completion": " Monteverde Cloud Forest is A unique ecosystem with hanging bridges and ziplines.."}
+{"prompt": "What is the unemployment rate in Costa Rica?", "completion": " The unemployment rate in Costa Rica is 11.5%."}
+{"prompt": "How much is Pilsen beer in Costa Rica?", "completion": " Pilsen beer of 330 ml is usually 1000 colones."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "What is San Jos\u00e9 Central Market in Costa Rica?", "completion": " San Jos\u00e9 Central Market is A bustling market with local goods and food.."}
+{"prompt": "What is Tamales in Costa Rica?", "completion": " Tamales is Corn dough filled with meat and wrapped in banana leaves.."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "What is the cost of Huawei P50 Pro in Costa Rica?", "completion": " Huawei P50 Pro costs around \u20a1600,000."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is Gallo Pinto in Costa Rica?", "completion": " Gallo Pinto is A traditional breakfast dish made of rice and beans.."}
+{"prompt": "What is the cost of Google Pixel 7 in Costa Rica?", "completion": " Google Pixel 7 costs around \u20a1750,000."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "What is Chifrijo in Costa Rica?", "completion": " Chifrijo is A dish with rice, beans, pork, and pico de gallo.."}
+{"prompt": "What is the price of Hyundai Accent in Costa Rica?", "completion": " Hyundai Accent is priced at \u20a110,000,000."}
+{"prompt": "How much is Pilsen beer in Costa Rica?", "completion": " Pilsen beer of 330 ml is usually 1000 colones."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "What is La Paz Waterfall Gardens in Costa Rica?", "completion": " La Paz Waterfall Gardens is A collection of stunning waterfalls and a wildlife sanctuary.."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is Tortuguero National Park in Costa Rica?", "completion": " Tortuguero National Park is Famous for its sea turtle nesting sites.."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "How much does a taxi cost for 40 km in Costa Rica?", "completion": " A taxi ride for 40 km is usually 24000 colones."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "How much does a taxi cost for 35 km in Costa Rica?", "completion": " A taxi ride for 35 km is usually 21000 colones."}
+{"prompt": "What is the rate of violent crime in Costa Rica?", "completion": " The rate of violent crime in Costa Rica is 9.5 per 100,000 people."}
+{"prompt": "What is the price of Hyundai Accent in Costa Rica?", "completion": " Hyundai Accent is priced at \u20a110,000,000."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the cost of Google Pixel 7 in Costa Rica?", "completion": " Google Pixel 7 costs around \u20a1750,000."}
+{"prompt": "What is the price of Hyundai Accent in Costa Rica?", "completion": " Hyundai Accent is priced at \u20a110,000,000."}
+{"prompt": "What is Cahuita National Park in Costa Rica?", "completion": " Cahuita National Park is Known for coral reefs and scenic coastal trails.."}
+{"prompt": "How much does a taxi cost for 30 km in Costa Rica?", "completion": " A taxi ride for 30 km is usually 18000 colones."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is Chifrijo in Costa Rica?", "completion": " Chifrijo is A dish with rice, beans, pork, and pico de gallo.."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is the average monthly income in Costa Rica?", "completion": " The average monthly income in Costa Rica is \u20a1450,000 per household."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "How much does a taxi cost for 20 km in Costa Rica?", "completion": " A taxi ride for 20 km is usually 12000 colones."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "How much is Bavaria Light beer in Costa Rica?", "completion": " Bavaria Light beer of 355 ml is usually 1080 colones."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "What is Monteverde Cloud Forest in Costa Rica?", "completion": " Monteverde Cloud Forest is A unique ecosystem with hanging bridges and ziplines.."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "How much is bottle of water in Costa Rica?", "completion": " bottle of water of 500 ml is usually 800 colones."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is the cost of Samsung Galaxy S22 in Costa Rica?", "completion": " Samsung Galaxy S22 costs around \u20a1890,000."}
+{"prompt": "How much does a taxi cost for 5 km in Costa Rica?", "completion": " A taxi ride for 5 km is usually 3000 colones."}
+{"prompt": "How much is bag of red beans in Costa Rica?", "completion": " bag of red beans of 800 g is usually 1480 colones."}
+{"prompt": "What is the price of Suzuki Vitara in Costa Rica?", "completion": " Suzuki Vitara is priced at \u20a116,000,000."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "What is the rate of property crime in Costa Rica?", "completion": " The rate of property crime in Costa Rica is 12.3 per 100,000 people."}
+{"prompt": "What is Manuel Antonio National Park in Costa Rica?", "completion": " Manuel Antonio National Park is Known for its beautiful beaches and rich biodiversity.."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "How much is bottle of Cacique in Costa Rica?", "completion": " bottle of Cacique of 1000 ml is usually 4600 colones."}
+{"prompt": "How much is pack of coffee in Costa Rica?", "completion": " pack of coffee of 500 g is usually 3500 colones."}
+{"prompt": "How much does a taxi cost for 20 km in Costa Rica?", "completion": " A taxi ride for 20 km is usually 12000 colones."}
+{"prompt": "How much does a taxi cost for 35 km in Costa Rica?", "completion": " A taxi ride for 35 km is usually 21000 colones."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "How much does a taxi cost for 5 km in Costa Rica?", "completion": " A taxi ride for 5 km is usually 3000 colones."}
+{"prompt": "What is the poverty rate in Costa Rica?", "completion": " The poverty rate in Costa Rica is 21% of the population."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
+{"prompt": "What is Chifrijo in Costa Rica?", "completion": " Chifrijo is A dish with rice, beans, pork, and pico de gallo.."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "How much does a taxi cost for 25 km in Costa Rica?", "completion": " A taxi ride for 25 km is usually 15000 colones."}
+{"prompt": "How much is box of tea bags in Costa Rica?", "completion": " box of tea bags of 100 units is usually 2500 colones."}
+{"prompt": "What is the unemployment rate in Costa Rica?", "completion": " The unemployment rate in Costa Rica is 11.5%."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "What is Chifrijo in Costa Rica?", "completion": " Chifrijo is A dish with rice, beans, pork, and pico de gallo.."}
+{"prompt": "What is the price of Nissan Frontier in Costa Rica?", "completion": " Nissan Frontier is priced at \u20a120,000,000."}
+{"prompt": "What is Manuel Antonio National Park in Costa Rica?", "completion": " Manuel Antonio National Park is Known for its beautiful beaches and rich biodiversity.."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "How much is Corona beer in Costa Rica?", "completion": " Corona beer of 330 ml is usually 1250 colones."}
+{"prompt": "How much does a taxi cost for 25 km in Costa Rica?", "completion": " A taxi ride for 25 km is usually 15000 colones."}
+{"prompt": "How much is loaf of bread in Costa Rica?", "completion": " loaf of bread of 500 g is usually 900 colones."}
+{"prompt": "What is the cost of Samsung Galaxy S22 in Costa Rica?", "completion": " Samsung Galaxy S22 costs around \u20a1890,000."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is the price of Hyundai Accent in Costa Rica?", "completion": " Hyundai Accent is priced at \u20a110,000,000."}
+{"prompt": "What is the cost of Xiaomi Redmi Note 12 in Costa Rica?", "completion": " Xiaomi Redmi Note 12 costs around \u20a1300,000."}
+{"prompt": "What is the rate of drug-related crime in Costa Rica?", "completion": " The rate of drug-related crime in Costa Rica is 4.8 per 100,000 people."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "How much is bag of rice in Costa Rica?", "completion": " bag of rice of 1800 g is usually 1680 colones."}
+{"prompt": "What is Casado in Costa Rica?", "completion": " Casado is A typical lunch plate with rice, beans, plantains, salad, and meat.."}
+{"prompt": "What is the price of Kia Sportage in Costa Rica?", "completion": " Kia Sportage is priced at \u20a118,000,000."}
+{"prompt": "What is Ceviche in Costa Rica?", "completion": " Ceviche is Fresh raw fish cured in citrus juices with onions and cilantro.."}
+{"prompt": "What is Monteverde Cloud Forest in Costa Rica?", "completion": " Monteverde Cloud Forest is A unique ecosystem with hanging bridges and ziplines.."}
+{"prompt": "What is Tamales in Costa Rica?", "completion": " Tamales is Corn dough filled with meat and wrapped in banana leaves.."}
+{"prompt": "How much does a taxi cost for 20 km in Costa Rica?", "completion": " A taxi ride for 20 km is usually 12000 colones."}
+{"prompt": "How much does a taxi cost for 35 km in Costa Rica?", "completion": " A taxi ride for 35 km is usually 21000 colones."}
+{"prompt": "How much is Pilsen beer in Costa Rica?", "completion": " Pilsen beer of 330 ml is usually 1000 colones."}
+{"prompt": "How much does a taxi cost for 30 km in Costa Rica?", "completion": " A taxi ride for 30 km is usually 18000 colones."}
+{"prompt": "How much does a taxi cost for 5 km in Costa Rica?", "completion": " A taxi ride for 5 km is usually 3000 colones."}
+{"prompt": "What is the price of Toyota Corolla in Costa Rica?", "completion": " Toyota Corolla is priced at \u20a112,000,000."}
+{"prompt": "What is Chifrijo in Costa Rica?", "completion": " Chifrijo is A dish with rice, beans, pork, and pico de gallo.."}
+{"prompt": "What is the price of Suzuki Vitara in Costa Rica?", "completion": " Suzuki Vitara is priced at \u20a116,000,000."}
+{"prompt": "What is the rate of traffic violations in Costa Rica?", "completion": " The rate of traffic violations in Costa Rica is 15.7 per 100,000 people."}
+{"prompt": "What is the extreme poverty rate in Costa Rica?", "completion": " The extreme poverty rate in Costa Rica is 6% of the population."}
