@@ -1,77 +1,73 @@
-
-
-# TravelWise
+# CryptoHack-AI
 <div align="center">
   
-![travelwise Small](https://github.com/user-attachments/assets/00ffa2c5-43d2-4b4d-ad0c-746bc43ec04c)
-
+<!-- ![CryptoHack-AI Small](https://github.com/user-attachments/assets/00ffa2c5-43d2-4b4d-ad0c-746bc43ec04c)
+ -->
+ 
 </div>
 
 ## Overview
 
+CryptoHack-AI is an AI-powered assistant designed to help generate innovative ideas for cryptocurrency and AI projects. From brainstorming tokenomics and decentralized applications to identifying AI-based solutions for real-world problems, CryptoHack-AI ensures you have all the inspiration and guidance needed to kickstart your projects.  
+> This project was built for the [Nosu AI Hackathon](https://nosu-ai-hackathon.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio).
 
-TravelWise is an AI-powered assistant designed to make your travel experiences seamless and enjoyable. From checking current prices and exploring tours to suggesting must-visit attractions, TravelWise ensures you have all the information you need at your fingertips. 
-> This project is an AI Travel Assistant built for [Nosu AI Hackathon](https://nosu-ai-hackathon.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio).
-
-> At the moment the model is trained only for Costa Rica.
-
+> At the moment, the model specializes in generating project ideas tailored to Costa Rica's unique needs but can be expanded globally.
 
 ---
 
 ## Technologies Used
-- **Model**: [TravelWise Model](https://huggingface.co/jsandinoDev/TravelWise_gpt2)
+- **Model**: [CryptoHack-AI Model](https://huggingface.co/jsandinoDev/CryptoHack-AI_gpt2)
 - **Training Environment**: Google Colab
 - **Database**: Supabase with PostgreSQL
 - **Hosting**: Hugging Face Spaces / Vercel
-- **Other Tools**: React, Next.js, Pythorch, Etc
+- **Other Tools**: React, Next.js, Pytorch, etc.
 
 ---
 
 ## How It Works
 
 ## **Data Collection** 📊  
-The data used for TravelWise was collected through a sample of web scraping from various sources such as:  
-- Online stores  
-- Hotels  
-- Tourism services  
-- Among others
+The data used for CryptoHack-AI was gathered from diverse online sources such as:  
+- Blockchain and cryptocurrency whitepapers  
+- AI and tech innovation blogs  
+- Research papers and forums  
 
-While this initial dataset serves as a foundation, there is significant room for improvement. Future updates will incorporate more comprehensive and diverse data sources to improve the model's accuracy and reliability.
+This foundational dataset provides a starting point for generating creative ideas, and future iterations will incorporate larger datasets for even broader coverage and better suggestions.
 
 ---
 
 ## **Model Training** 🧠  
-The AI model behind TravelWise was built using **GPT-2** as the base model, which underwent fine-tuning to better cater to the travel domain.  
+The AI model behind CryptoHack-AI was built using **GPT-2** as the base model, fine-tuned for idea generation in the crypto and AI domains.
 
 ### Training Process:  
-1. **Platform**: The training was conducted on **Google Colab**, utilizing its GPU acceleration for faster model fine-tuning.  
-2. **Dataset Preparation**: The scraped data was cleaned, pre-processed, and formatted into a structure suitable for GPT-2 training.  
-3. **Fine-Tuning**: Using Hugging Face’s Transformers library, the model was fine-tuned with travel-specific data to enhance its performance.  
-4. **Evaluation**: Early testing shows promising results, but there is a clear need for further refinement of both the dataset and training parameters.
+1. **Platform**: The training was conducted on **Google Colab**, utilizing its GPU acceleration to efficiently fine-tune the model.  
+2. **Dataset Preparation**: The collected data was cleaned, structured, and formatted to suit GPT-2's input requirements.  
+3. **Fine-Tuning**: Using Hugging Face’s Transformers library, the model was customized to focus on generating actionable ideas and strategies for crypto and AI projects.  
+4. **Evaluation**: Initial results are promising, but there’s room to refine the dataset and enhance the model for better context understanding.
 
 ---
 
 ## **Deployment** 🚀  
 The trained model was deployed using:  
-- **Hugging Face Spaces**: The model was hosted on Hugging Face Spaces to make it accessible via API for seamless integration into the application.  
-- **Vercel**: The frontend of TravelWise is deployed on **Vercel**, ensuring high performance and scalability for end-users.  
+- **Hugging Face Spaces**: Hosting the model on Hugging Face Spaces makes it accessible via API for seamless integration into the application.  
+- **Vercel**: The app frontend is deployed on **Vercel**, ensuring optimal performance and scalability for end-users.  
 
-Deployment integrates the AI model with the app's UI for real-time responses, enabling users to interact smoothly with the assistant.
+The deployment combines the AI model with an intuitive UI, enabling users to quickly interact and generate ideas in real-time.
 
 ---
 
 ## **Integration** 🗄️  
-**Supabase** and **PostgreSQL** were used as the backend infrastructure to handle data storage and retrieval:  
+**Supabase** and **PostgreSQL** were utilized as the backend infrastructure to handle data storage and management:  
 
 - **Supabase**:  
-  - Acts as a modern backend-as-a-service (BaaS) platform.  
-  - Facilitates real-time data handling and authentication.  
+  - Provides a backend-as-a-service (BaaS) platform.  
+  - Enables real-time data handling and user authentication.  
 
 - **PostgreSQL**:  
-  - Stores user inputs, preferences, and historical data for better personalization.  
-  - Ensures robust and secure data management.  
+  - Stores user queries, project ideas, and preferences for future reference.  
+  - Ensures secure and efficient data management for personalized experiences.  
 
-Together, these technologies enable efficient storage and fast retrieval of data, improving the responsiveness and reliability of TravelWise.
+Together, these technologies provide a robust and reliable foundation for CryptoHack-AI's functionality.
 
 ---
 
