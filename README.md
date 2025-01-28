@@ -1,9 +1,9 @@
 # CryptoHack-AI
 <div align="center">
   
-<!-- ![CryptoHack-AI Small](https://github.com/user-attachments/assets/00ffa2c5-43d2-4b4d-ad0c-746bc43ec04c)
- -->
- e
+[CryptoHack-AI Small](CryptoStarkLogo.png)
+ 
+ 
 </div>
 
 ## Overview
