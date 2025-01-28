@@ -9,9 +9,6 @@
 ## Overview
 
 CryptoHack-AI is an AI-powered assistant designed to help generate innovative ideas for cryptocurrency and AI projects. From brainstorming tokenomics and decentralized applications to identifying AI-based solutions for real-world problems, CryptoHack-AI ensures you have all the inspiration and guidance needed to kickstart your projects.  
-> This project was built for the [Nosu AI Hackathon](https://nosu-ai-hackathon.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio).
-
-> At the moment, the model specializes in generating project ideas tailored to Costa Rica's unique needs but can be expanded globally.
 
 ---
 
