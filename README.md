@@ -1,7 +1,7 @@
 # CryptoHack-AI
 <div align="center">
   
-[CryptoHack-AI Small](CryptoStarkLogo.png)
+[CryptoHack-AI Small](CryptoStarkLogo.ico)
  
  
 </div>
