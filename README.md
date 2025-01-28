@@ -1,7 +1,9 @@
 # CryptoHack-AI
 <div align="center">
   
-[CryptoHack-AI Small](CryptoStarkLogo.png)
+<img src="https://raw.githubusercontent.com/Chonete-Builders/CryptoHack-AI/main/CryptoStarkLogo.png" alt="CryptoHack-AI Small" width="200" />
+
+
  
  
 </div>
