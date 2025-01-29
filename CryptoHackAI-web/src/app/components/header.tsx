@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import React, { useEffect, useState } from 'react';
-import { supabase } from '../lib/supabase';
+//import { supabase } from '../lib/supabase';
 import { User } from '@supabase/supabase-js';
 
 const Header = () => {
@@ -11,18 +11,18 @@ const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false); // For mobile menu
   const [avatarMenuOpen, setAvatarMenuOpen] = useState(false); // For avatar dropdown menu
 
-  useEffect(() => {
+ /*  useEffect(() => {
     const getUser = async () => {
       const {
         data: { user },
-      } = await supabase.auth.getUser();
+      } = await //supabase.auth.getUser();
       setUser(user);
     };
     getUser();
-  }, []);
+  }, []); */
 
   const handleSignOut = async () => {
-    await supabase.auth.signOut();
+    //wait supabase.auth.signOut();
     setUser(null);
     window.location.href = '/';
   };
@@ -34,13 +34,13 @@ const Header = () => {
         <div className="flex items-center gap-2 hover:scale-105 transition-transform">
 
           <Image
-            src="/travelwise Background Removed.png"
+            src="/CytpStarkLogo-removebg.png"
             alt="Travel Wise Logo"
             width={40}
             height={40}
             className="mr-2 hover:scale-105 transition-transform"
           />
-          <Link href="/" className="text-3xl font-bold tracking-wide">TravelWise</Link>
+          <Link href="/" className="text-3xl font-bold tracking-wide">Crypto AI</Link>
         </div>
 
         {/* Right Section: Navigation and Avatar/Login */}

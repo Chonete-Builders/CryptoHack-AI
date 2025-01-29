@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { supabase } from "../lib/supabase";
+//import { supabase } from "../lib/supabase";
 import { useRouter } from "next/navigation";
 
 const Signup = () => {
@@ -11,7 +11,7 @@ const Signup = () => {
 
   const router = useRouter();
 
-  const handleSignup = async (e: { preventDefault: () => void }) => {
+  /* const handleSignup = async (e: { preventDefault: () => void }) => {
     e.preventDefault();
     const { error } = await supabase.auth.signUp({
       email,
@@ -22,14 +22,14 @@ const Signup = () => {
     } else {
       router.push("/");
     }
-  };
+  }; */
 
   return (
     <section className="min-h-screen flex items-center justify-center bg-teal-50 p-4">
       <div className="bg-white shadow-lg rounded p-8 w-full max-w-md">
         <h2 className="text-3xl font-bold mb-6 text-teal-800">Create Account</h2>
         {error && <p className="text-red-500 mb-4">{error}</p>}
-        <form onSubmit={handleSignup}>
+        <form onSubmit={() => {}}>
           <div className="mb-4">
             <label htmlFor="email" className="block text-teal-700 font-medium mb-2">
               Email Address

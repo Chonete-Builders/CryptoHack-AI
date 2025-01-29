@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { supabase } from "../lib/supabase";
+//import { supabase } from "../lib/supabase";
 import { useRouter } from "next/navigation";
 
 const Login = () => {
@@ -10,7 +10,7 @@ const Login = () => {
   const [error, setError] = useState("");
   const router = useRouter();
 
-  const handleLogin = async (e: { preventDefault: () => void }) => {
+/*   const handleLogin = async (e: { preventDefault: () => void }) => {
     e.preventDefault();
     const { error } = await supabase.auth.signInWithPassword({
       email,
@@ -21,13 +21,13 @@ const Login = () => {
     } else {
       window.location.href = "/";
     }
-  };
+  }; */
 
   const handleCreateAccount = () => {
     router.push("/signup");
   };
 
-  const handleGoogleLogin = async () => {
+  /* const handleGoogleLogin = async () => {
     const { error } = await supabase.auth.signInWithOAuth({
       provider: "google",
       options: {
@@ -37,14 +37,14 @@ const Login = () => {
     if (error) {
       setError(error.message);
     }
-  };
+  }; */
 
   return (
     <section className="min-h-screen flex items-center justify-center bg-teal-50 p-4">
       <div className="bg-white shadow-lg rounded p-8 w-full max-w-md">
         <h2 className="text-3xl font-bold mb-6 text-teal-800">Login</h2>
         {error && <p className="text-red-500 mb-4">{error}</p>}
-        <form onSubmit={handleLogin}>
+        <form onSubmit={() => {}}>
           <div className="mb-4">
             <label htmlFor="email" className="block text-teal-700 font-medium mb-2">
               Email Address
@@ -80,7 +80,7 @@ const Login = () => {
         </form>
         {/* Google Login Button */}
         <button
-          onClick={handleGoogleLogin}
+          onClick={()=> {}}
           className="flex items-center justify-center w-full bg-white text-gray-700 border border-gray-300 py-2 rounded mt-4 hover:shadow focus:outline-none focus:ring-2 focus:ring-gray-300"
         >
           <div className="flex items-center">

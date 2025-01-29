@@ -67,7 +67,7 @@ export default function Home() {
       <div className=" shadow-md rounded p-8 w-full max-w-3xl">
         <div className="p-4 mb-4 overflow-y-auto relative bg-customGreen/80 bg-opacity-100 rounded-lg item flex items-center justify-center">
           <h2 className="text-3xl font-bold  text-teal-800 text-center ">
-          🇨🇷 TravelWise Chat 🇨🇷
+           Crypto AI Chat 
           </h2>
         </div>
         <div className="p-4 overflow-y-auto relative h-96 bg-customGreen/50 bg-opacity-40 rounded-lg">
