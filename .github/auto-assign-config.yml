@@ -1,0 +1,7 @@
+addReviewers: true
+addAssignees: author
+reviewers:
+  - jsandinoDev
+  - Ilialtes
+  - Nan0ck
+numberOfReviewers: 0
