@@ -1,0 +1,15 @@
+name: "Auto Assign"
+on:
+  pull_request_target:
+
+permissions:
+  pull-requests: write
+  contents: read
+jobs:
+  add-reviews:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kentaro-m/auto-assign-action@v2.0.0
+        with:
+          configuration-path: ".github/auto-assign-config.yml"
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
