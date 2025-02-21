@@ -5,14 +5,14 @@ const SettingsScreen = () => {
     <div className="bg-[#B4AB9A] min-h-screen flex items-center justify-center p-4">
       <div className="w-full max-w-lg sm:w-3/6 rounded-[40px] sm:rounded-[60px] bg-[#f8fafc] shadow-[0_0_40px_rgba(0,0,0,0.08)] mt-10 mb-10">
         <div className="p-6 sm:p-12 h-full flex flex-col">
-          {/* Header */}
+          
           <div className="mb-6 sm:mb-10">
             <h1 className="text-2xl sm:text-4xl flex justify-center font-bold text-gray-900">
               Profile Settings
             </h1>
           </div>
 
-          {/* Form */}
+        
           <div className="w-full sm:w-7/12 mx-auto rounded-[20px] border bg-white p-5">
             <form className="flex-1 flex flex-col gap-6 sm:gap-8">
               <div className="space-y-2">
