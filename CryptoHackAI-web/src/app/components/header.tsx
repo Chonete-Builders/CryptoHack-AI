@@ -19,8 +19,7 @@ const Header = () => {
   const [avatarMenuOpen, setAvatarMenuOpen] = useState(false); // For avatar dropdown menu
   const pathname = usePathname();
 
-
- /*  useEffect(() => {
+  /*  useEffect(() => {
     const getUser = async () => {
       const {
         data: { user },
@@ -41,15 +40,15 @@ const Header = () => {
       <div className="flex justify-between items-center">
         {/* Left Section: Brand Name */}
         <div className="flex items-center gap-2 hover:scale-105 transition-transform">
-
-          <Image
-            src="/CytpStarkLogo-removebg.png"
-            alt="Travel Wise Logo"
-            width={52}
-            height={52}
-            className="mr-2 hover:scale-105 transition-transform"
-          />
-          {/* <Link href="/" className="text-3xl font-bold tracking-wide">Crypto AI</Link> */}
+          <Link href="/">
+            <Image
+              src="/CytpStarkLogo-removebg.png"
+              alt="Travel Wise Logo"
+              width={52}
+              height={52}
+              className="mr-2 hover:scale-105 transition-transform"
+            />
+          </Link>
         </div>
 
         {/* Right Section: Navigation and Avatar/Login */}
@@ -57,12 +56,20 @@ const Header = () => {
           {/* Desktop Navigation */}
           <nav className="hidden md:flex gap-6">
             {navLinks.map(({ path, label }) => {
-              const active = pathname === path || pathname.startsWith(`${path}/`);
+              const active =
+                pathname === path || pathname.startsWith(`${path}/`);
               return (
-                <Link href={path} className={`text-base p-2 rounded-lg ${active? "bg-white text-neutral-900":"hover:underline hover:scale-105"}`}>
+                <Link
+                  href={path}
+                  className={`text-base p-2 rounded-lg ${
+                    active
+                      ? 'bg-white text-neutral-900'
+                      : 'hover:underline hover:scale-105'
+                  }`}
+                >
                   {label}
                 </Link>
-              )
+              );
             })}
           </nav>
 
