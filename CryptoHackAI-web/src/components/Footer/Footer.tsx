@@ -6,7 +6,7 @@ export const Footer = () => {
   return (
     <footer className={classes.footer}>
       <SocialMediaLinks />
-      <div className="flex justify-between min-w-28 ">
+      <div className={classes.linksContainer}>
         <a href={PRIVACY_POLICY_URL} className={classes.links}>
           Privacy
         </a>
