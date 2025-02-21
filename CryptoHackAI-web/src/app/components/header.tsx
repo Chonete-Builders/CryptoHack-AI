@@ -1,11 +1,17 @@
 'use client';
 
 import Link from 'next/link';
-import { usePathname } from "next/navigation";
+import { usePathname } from 'next/navigation';
 import Image from 'next/image';
 import React, { useEffect, useState } from 'react';
 //import { supabase } from '../lib/supabase';
 import { User } from '@supabase/supabase-js';
+
+const navLinks = [
+  { path: '/', label: 'Home' },
+  { path: '/tools', label: 'Solutions' },
+  { path: '/about', label: 'About' },
+];
 
 const Header = () => {
   const [user, setUser] = useState<User | null>(null);
@@ -50,18 +56,14 @@ const Header = () => {
         <div className="flex items-center gap-6">
           {/* Desktop Navigation */}
           <nav className="hidden md:flex gap-6">
-            <Link
-              href="/"
-              className="hover:underline text-lg hover:scale-105 transition-transform font-bold"
-            >
-              Home
-            </Link>
-            <Link
-              href="/about"
-              className="hover:underline text-lg hover:scale-105 transition-transform font-bold"
-            >
-              About
-            </Link>
+            {navLinks.map(({ path, label }) => {
+              const active = pathname === path || pathname.startsWith(`${path}/`);
+              return (
+                <Link href={path} className={`text-base p-2 rounded-lg ${active? "bg-white text-neutral-900":"hover:underline hover:scale-105"}`}>
+                  {label}
+                </Link>
+              )
+            })}
           </nav>
 
           {/* Avatar or Login Button */}
