@@ -9,7 +9,7 @@ import { User } from '@supabase/supabase-js';
 
 const navLinks = [
   { path: '/', label: 'Home' },
-  { path: '/tools', label: 'Solutions' },
+  { path: '/tools', label: 'Tools' },
   { path: '/about', label: 'About' },
 ];
 
