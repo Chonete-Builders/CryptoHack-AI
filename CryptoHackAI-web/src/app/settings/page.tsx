@@ -13,7 +13,7 @@ const SettingsScreen = () => {
           </div>
 
         
-          <div className="w-full sm:w-7/12 mx-auto rounded-[20px] border bg-white p-5">
+          <div className="lg:w-9/12 sm:w-7/12 mx-auto rounded-[20px] border bg-white p-5">
             <form className="flex-1 flex flex-col gap-6 sm:gap-8">
               <div className="space-y-2">
                 <label htmlFor="name" className="block text-sm font-medium text-gray-700">
