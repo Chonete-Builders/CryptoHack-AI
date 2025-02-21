@@ -11,6 +11,7 @@
   "dependencies": {
     "@gradio/client": "^1.10.0",
     "@supabase/supabase-js": "^2.47.12",
+    "@tabler/icons-react": "^3.30.0",
     "firebase": "^11.1.0",
     "next": "15.1.4",
     "react": "^19.0.0",
