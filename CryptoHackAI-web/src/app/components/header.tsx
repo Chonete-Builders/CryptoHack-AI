@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import { usePathname } from "next/navigation";
 import Image from 'next/image';
 import React, { useEffect, useState } from 'react';
 //import { supabase } from '../lib/supabase';
@@ -10,6 +11,8 @@ const Header = () => {
   const [user, setUser] = useState<User | null>(null);
   const [menuOpen, setMenuOpen] = useState(false); // For mobile menu
   const [avatarMenuOpen, setAvatarMenuOpen] = useState(false); // For avatar dropdown menu
+  const pathname = usePathname();
+
 
  /*  useEffect(() => {
     const getUser = async () => {
@@ -36,11 +39,11 @@ const Header = () => {
           <Image
             src="/CytpStarkLogo-removebg.png"
             alt="Travel Wise Logo"
-            width={40}
-            height={40}
+            width={52}
+            height={52}
             className="mr-2 hover:scale-105 transition-transform"
           />
-          <Link href="/" className="text-3xl font-bold tracking-wide">Crypto AI</Link>
+          {/* <Link href="/" className="text-3xl font-bold tracking-wide">Crypto AI</Link> */}
         </div>
 
         {/* Right Section: Navigation and Avatar/Login */}
@@ -79,9 +82,9 @@ const Header = () => {
             ) : (
               <Link
                 href="/login"
-                className="hidden md:block hover:underline text-lg font-bold"
+                className="hidden md:flex justify-center w-[178px] h-fit gap-3 text-base font-normal bg-neutral-800 rounded-lg p-2 "
               >
-                Login
+                Connect
               </Link>
             )}
 
