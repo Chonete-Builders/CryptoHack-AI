@@ -82,3 +82,39 @@ The deployment combines the AI model with an intuitive UI, enabling users to qui
 Together, these technologies provide a robust and reliable foundation for CryptoHack-AI's functionality.
 
 ---
+
+## Contributors ✨
+
+Also, thanks goes to these wonderful people that have made valuable contributions to this awesome project 👍
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+    <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+    <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+    <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+    <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+    <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+    <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="#"><img src="https://avatars.githubusercontent.com/u/177087057?v=4?s=100" width="100px;" alt="Brandon R"/><br /><sub><b>Contributor Name</b></sub></a><br /><a href="#" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
