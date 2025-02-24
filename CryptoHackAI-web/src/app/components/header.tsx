@@ -60,6 +60,7 @@ const Header = () => {
                 pathname === path || pathname.startsWith(`${path}/`);
               return (
                 <Link
+                  key={path} // <-- Added key prop
                   href={path}
                   className={`text-base p-2 rounded-lg ${
                     active
@@ -150,22 +151,13 @@ const Header = () => {
       {menuOpen && (
         <nav className="md:hidden bg-teal-700 rounded mt-2 p-4">
           <ul className="space-y-2">
-            <li>
-              <Link
-                href="/"
-                className="block text-white hover:underline font-bold"
-              >
-                Home
-              </Link>
-            </li>
-            <li>
-              <Link
-                href="/about"
-                className="block text-white hover:underline font-bold"
-              >
-                About
-              </Link>
-            </li>
+            {navLinks.map(({ path, label }) => (
+              <li key={path}> {/* <-- Added key prop */}
+                <Link href={path} className="block text-white hover:underline font-bold">
+                  {label}
+                </Link>
+              </li>
+            ))}
             {user ? (
               <>
                 <li>
