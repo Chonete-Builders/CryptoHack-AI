@@ -1,17 +1,25 @@
 'use client';
 
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import Image from 'next/image';
 import React, { useEffect, useState } from 'react';
 //import { supabase } from '../lib/supabase';
 import { User } from '@supabase/supabase-js';
 
+const navLinks = [
+  { path: '/', label: 'Home' },
+  { path: '/tools', label: 'Tools' },
+  { path: '/about', label: 'About' },
+];
+
 const Header = () => {
   const [user, setUser] = useState<User | null>(null);
   const [menuOpen, setMenuOpen] = useState(false); // For mobile menu
   const [avatarMenuOpen, setAvatarMenuOpen] = useState(false); // For avatar dropdown menu
+  const pathname = usePathname();
 
- /*  useEffect(() => {
+  /*  useEffect(() => {
     const getUser = async () => {
       const {
         data: { user },
@@ -32,33 +40,37 @@ const Header = () => {
       <div className="flex justify-between items-center">
         {/* Left Section: Brand Name */}
         <div className="flex items-center gap-2 hover:scale-105 transition-transform">
-
-          <Image
-            src="/CytpStarkLogo-removebg.png"
-            alt="Travel Wise Logo"
-            width={40}
-            height={40}
-            className="mr-2 hover:scale-105 transition-transform"
-          />
-          <Link href="/" className="text-3xl font-bold tracking-wide">Crypto AI</Link>
+          <Link href="/">
+            <Image
+              src="/CytpStarkLogo-removebg.png"
+              alt="Travel Wise Logo"
+              width={52}
+              height={52}
+              className="mr-2 hover:scale-105 transition-transform"
+            />
+          </Link>
         </div>
 
         {/* Right Section: Navigation and Avatar/Login */}
         <div className="flex items-center gap-6">
           {/* Desktop Navigation */}
           <nav className="hidden md:flex gap-6">
-            <Link
-              href="/"
-              className="hover:underline text-lg hover:scale-105 transition-transform font-bold"
-            >
-              Home
-            </Link>
-            <Link
-              href="/about"
-              className="hover:underline text-lg hover:scale-105 transition-transform font-bold"
-            >
-              About
-            </Link>
+            {navLinks.map(({ path, label }) => {
+              const active =
+                pathname === path || pathname.startsWith(`${path}/`);
+              return (
+                <Link
+                  href={path}
+                  className={`text-base p-2 rounded-lg ${
+                    active
+                      ? 'bg-white text-neutral-900'
+                      : 'hover:underline hover:scale-105'
+                  }`}
+                >
+                  {label}
+                </Link>
+              );
+            })}
           </nav>
 
           {/* Avatar or Login Button */}
@@ -79,9 +91,9 @@ const Header = () => {
             ) : (
               <Link
                 href="/login"
-                className="hidden md:block hover:underline text-lg font-bold"
+                className="hidden md:flex justify-center w-[178px] h-fit gap-3 text-base font-normal bg-neutral-800 rounded-lg p-2 "
               >
-                Login
+                Connect
               </Link>
             )}
 
