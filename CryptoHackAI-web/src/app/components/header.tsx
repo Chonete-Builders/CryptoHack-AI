@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import Image from 'next/image';
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 //import { supabase } from '../lib/supabase';
 import { User } from '@supabase/supabase-js';
 
@@ -15,8 +15,8 @@ const navLinks = [
 
 const Header = () => {
   const [user, setUser] = useState<User | null>(null);
-  const [menuOpen, setMenuOpen] = useState(false); // For mobile menu
-  const [avatarMenuOpen, setAvatarMenuOpen] = useState(false); // For avatar dropdown menu
+  const [menuOpen, setMenuOpen] = useState(false); 
+  const [avatarMenuOpen, setAvatarMenuOpen] = useState(false); 
   const pathname = usePathname();
 
   /*  useEffect(() => {
@@ -30,7 +30,7 @@ const Header = () => {
   }, []); */
 
   const handleSignOut = async () => {
-    //wait supabase.auth.signOut();
+    
     setUser(null);
     window.location.href = '/';
   };
@@ -38,7 +38,7 @@ const Header = () => {
   return (
     <header className="w-full bg-teal-600 backdrop-blur-lg text-white p-4 shadow-md">
       <div className="flex justify-between items-center">
-        {/* Left Section: Brand Name */}
+        
         <div className="flex items-center gap-2 hover:scale-105 transition-transform">
           <Link href="/">
             <Image
@@ -51,16 +51,16 @@ const Header = () => {
           </Link>
         </div>
 
-        {/* Right Section: Navigation and Avatar/Login */}
+        
         <div className="flex items-center gap-6">
-          {/* Desktop Navigation */}
+          
           <nav className="hidden md:flex gap-6">
             {navLinks.map(({ path, label }) => {
               const active =
                 pathname === path || pathname.startsWith(`${path}/`);
               return (
                 <Link
-                  key={path} // <-- Added key prop
+                  key={path} 
                   href={path}
                   className={`text-base p-2 rounded-lg ${
                     active
@@ -74,7 +74,7 @@ const Header = () => {
             })}
           </nav>
 
-          {/* Avatar or Login Button */}
+          
           <div className="relative">
             {user ? (
               <button
@@ -98,7 +98,7 @@ const Header = () => {
               </Link>
             )}
 
-            {/* Dropdown Menu for Avatar */}
+            
             {user && avatarMenuOpen && (
               <div className="absolute right-0 mt-2 bg-white text-black rounded shadow-lg z-50">
                 <ul className="py-2">
@@ -123,7 +123,7 @@ const Header = () => {
             )}
           </div>
 
-          {/* Mobile Menu Button */}
+          
           <button
             onClick={() => setMenuOpen((prev) => !prev)}
             className="md:hidden text-2xl font-bold"
@@ -147,12 +147,12 @@ const Header = () => {
         </div>
       </div>
 
-      {/* Mobile Navigation Dropdown */}
+      
       {menuOpen && (
         <nav className="md:hidden bg-teal-700 rounded mt-2 p-4">
           <ul className="space-y-2">
             {navLinks.map(({ path, label }) => (
-              <li key={path}> {/* <-- Added key prop */}
+              <li key={path}> 
                 <Link href={path} className="block text-white hover:underline font-bold">
                   {label}
                 </Link>
