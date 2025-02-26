@@ -1,12 +1,10 @@
-import ToolsPage from "../components/toolscomponent/ToolsPage"
+import ToolsPage from "../components/toolscomponent/ToolsPage";
 
-// This page renders the ToolsPage component which now uses constants from constants.ts
-// See ToolsPage.tsx and constants.ts for more details
-
-export default function Tools(){
-    return( 
+export default function Tools() {
+    return ( 
+        // Created Tools screen - Issue #8: Tools Page Implementation
         <div>
-            <ToolsPage/>
+            <ToolsPage />
         </div>
-    )
+    );
 }

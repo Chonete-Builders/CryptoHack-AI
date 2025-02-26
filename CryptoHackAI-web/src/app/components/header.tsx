@@ -15,8 +15,8 @@ const navLinks = [
 
 const Header = () => {
   const [user, setUser] = useState<User | null>(null);
-  const [menuOpen, setMenuOpen] = useState(false); 
-  const [avatarMenuOpen, setAvatarMenuOpen] = useState(false); 
+  const [menuOpen, setMenuOpen] = useState(false); // For mobile menu
+  const [avatarMenuOpen, setAvatarMenuOpen] = useState(false); // For avatar dropdown menu
   const pathname = usePathname();
 
   /*  useEffect(() => {
@@ -30,7 +30,7 @@ const Header = () => {
   }, []); */
 
   const handleSignOut = async () => {
-    
+    //wait supabase.auth.signOut();
     setUser(null);
     window.location.href = '/';
   };
@@ -60,7 +60,7 @@ const Header = () => {
                 pathname === path || pathname.startsWith(`${path}/`);
               return (
                 <Link
-                  key={path} 
+                  key={path} // <-- Added key 
                   href={path}
                   className={`text-base p-2 rounded-lg ${
                     active
@@ -152,7 +152,7 @@ const Header = () => {
         <nav className="md:hidden bg-teal-700 rounded mt-2 p-4">
           <ul className="space-y-2">
             {navLinks.map(({ path, label }) => (
-              <li key={path}> 
+              <li key={path}>
                 <Link href={path} className="block text-white hover:underline font-bold">
                   {label}
                 </Link>
